@@ -3,10 +3,10 @@ declared-services:
   retrieve-and-rank-service:
     label: retrieve_and_rank
     plan: standard
-  documentConversion-ab:
+  Document Conversion-ab:
     label: document_conversion
     plan: standard	
-  my-conversion-service:
+  my-conversation-service:
     label: conversation
     plan: free
 
@@ -19,6 +19,6 @@ applications:
   disk_quota: 1024M
   services:
   - retrieve-and-rank-service
-  - documentConversion-ab
-  - my-conversion-service
+  - Document Conversion-ab
+  - my-conversation-service
  
