@@ -12,7 +12,7 @@ declared-services:
 
 applications:
 - path: .
-  memory: 2056M
+  memory: 2000M
   instances: 1
   name: IdeaBanking
   host: IdeaBanking
