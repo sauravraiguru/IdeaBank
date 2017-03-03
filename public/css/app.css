@@ -6,7 +6,7 @@
 
 body {
     background-color: white;
-    background-image: url("../img/Idea.jpg");
+    background-image: url("../img/Idea.JPG");
     background-repeat:no-repeat;
     background-position:center;
     background-attachment:fixed;
@@ -489,7 +489,7 @@ background-image: url("../img/phone1.jpg");
 } 
  
  .html
-{background:url("../img/Idea.png") no-repeat center fixed; 
+{background:url("../img/Idea.PNG") no-repeat center fixed; 
 background-size:cover;
 }  
   
