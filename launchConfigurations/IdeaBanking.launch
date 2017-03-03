@@ -3,10 +3,10 @@
   "Params": {
     "Target": {
       "Url": "https://api.ng.bluemix.net",
-      "Org": "jacobmat@in.ibm.com",
+      "Org": "saurav.raiguru@in.ibm.com",
       "Space": "dev"
     },
-    "Name": "CognitiveBanking",
+    "Name": "IdeaBanking",
     "Instrumentation": {}
   },
   "Path": "",
